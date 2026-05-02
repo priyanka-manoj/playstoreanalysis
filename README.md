@@ -7,23 +7,24 @@ This project analyzes Google Play Store apps to identify high-value opportunitie
 
 Apps were evaluated using:
  
-Installs (scale)
-Engagement rate (reviews / installs)
-Ratings (user satisfaction)
+1. Installs (scale)
+2. Engagement rate (reviews / installs)
+3. Ratings (user satisfaction)
 
 A composite score was created and used to segment apps into:
 
-Elite
-High
-Mid
-Low (reference only)
+* Elite
+* High
+* Mid
+* Low (reference only)
 
 ### Key Insights
-Most apps fall into Mid and Low tiers; high-performing apps are limited
-Elite & High tiers offer strong engagement and scale → premium placements
-Mid tier provides the largest inventory → suitable for scalable campaigns
-Top apps commonly use Ads + In-App Purchases (hybrid monetization)
-Games and Family categories show stronger performance and monetization patterns
+
+1. Most apps fall into Mid and Low tiers; high-performing apps are limited
+2. Elite & High tiers offer strong engagement and scale → premium placements
+3. Mid tier provides the largest inventory → suitable for scalable campaigns
+4. Top apps commonly use Ads + In-App Purchases (hybrid monetization)
+5. Games and Family categories show stronger performance and monetization patterns
 
 ### Recommendations
 * Elite → Premium, high-impact campaigns
@@ -31,9 +32,9 @@ Games and Family categories show stronger performance and monetization patterns
 * Mid → Cost-efficient, reach-driven campaigns
 
 ### Limitations
-No data on revenue, pricing, or conversions
-IAP indicates capability, not actual spending
-Score is a heuristic, not a predictive model
+* No data on revenue, pricing, or conversions
+* IAP indicates capability, not actual spending
+* Score is a feature created for problem solving, not a predictive model
 
 ### Tech Stack
 
