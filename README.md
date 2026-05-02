@@ -26,9 +26,9 @@ Top apps commonly use Ads + In-App Purchases (hybrid monetization)
 Games and Family categories show stronger performance and monetization patterns
 
 ### Recommendations
-Elite → Premium, high-impact campaigns
-High → Performance-focused campaigns
-Mid → Cost-efficient, reach-driven campaigns
+* Elite → Premium, high-impact campaigns
+* High → Performance-focused campaigns
+* Mid → Cost-efficient, reach-driven campaigns
 
 ### Limitations
 No data on revenue, pricing, or conversions
